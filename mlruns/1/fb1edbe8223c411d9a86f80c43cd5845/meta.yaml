@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/fb1edbe8223c411d9a86f80c43cd5845/artifacts
+end_time: 1683269151471
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fb1edbe8223c411d9a86f80c43cd5845
+run_name: Dummy Classifier
+run_uuid: fb1edbe8223c411d9a86f80c43cd5845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269151315
+status: 3
+tags: []
+user_id: nuril

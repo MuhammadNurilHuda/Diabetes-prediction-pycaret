@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/8339b6ffd9264f0ead22b327a027a111/artifacts
+end_time: 1683269232264
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8339b6ffd9264f0ead22b327a027a111
+run_name: Naive Bayes
+run_uuid: 8339b6ffd9264f0ead22b327a027a111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269232107
+status: 3
+tags: []
+user_id: nuril

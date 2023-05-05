@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/81ca9d798d7c410c86bf0091cf3a5501/artifacts
+end_time: 1683269042815
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 81ca9d798d7c410c86bf0091cf3a5501
+run_name: Gradient Boosting Classifier
+run_uuid: 81ca9d798d7c410c86bf0091cf3a5501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269042626
+status: 3
+tags: []
+user_id: nuril

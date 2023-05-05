@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/90b8d67d2e7a4db089924e028d11851e/artifacts
+end_time: 1683269062993
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90b8d67d2e7a4db089924e028d11851e
+run_name: Extreme Gradient Boosting
+run_uuid: 90b8d67d2e7a4db089924e028d11851e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269062772
+status: 3
+tags: []
+user_id: nuril

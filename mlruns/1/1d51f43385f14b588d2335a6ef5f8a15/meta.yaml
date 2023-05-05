@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/1d51f43385f14b588d2335a6ef5f8a15/artifacts
+end_time: 1683269043119
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1d51f43385f14b588d2335a6ef5f8a15
+run_name: K Neighbors Classifier
+run_uuid: 1d51f43385f14b588d2335a6ef5f8a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269042961
+status: 3
+tags: []
+user_id: nuril

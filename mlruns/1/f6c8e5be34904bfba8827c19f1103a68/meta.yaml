@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/f6c8e5be34904bfba8827c19f1103a68/artifacts
+end_time: 1683269367428
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f6c8e5be34904bfba8827c19f1103a68
+run_name: Quadratic Discriminant Analysis
+run_uuid: f6c8e5be34904bfba8827c19f1103a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269367223
+status: 3
+tags: []
+user_id: nuril

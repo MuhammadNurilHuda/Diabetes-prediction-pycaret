@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/c377f986c22a40419306b719cdb64bff/artifacts
+end_time: 1683269059565
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c377f986c22a40419306b719cdb64bff
+run_name: Random Forest Classifier
+run_uuid: c377f986c22a40419306b719cdb64bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269059343
+status: 3
+tags: []
+user_id: nuril

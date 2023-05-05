@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/b90f4321e7f049bcb94b44c73265a028/artifacts
+end_time: 1683269272694
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b90f4321e7f049bcb94b44c73265a028
+run_name: CatBoost Classifier
+run_uuid: b90f4321e7f049bcb94b44c73265a028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269272533
+status: 3
+tags: []
+user_id: nuril

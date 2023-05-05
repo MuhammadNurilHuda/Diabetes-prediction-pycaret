@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/c8a0c87b511e4bdd96d9d5c05ccfc7da/artifacts
+end_time: 1683269041868
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c8a0c87b511e4bdd96d9d5c05ccfc7da
+run_name: SVM - Linear Kernel
+run_uuid: c8a0c87b511e4bdd96d9d5c05ccfc7da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269041542
+status: 3
+tags: []
+user_id: nuril

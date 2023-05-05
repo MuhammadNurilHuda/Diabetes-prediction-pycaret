@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/6044b802dbb04b6898836f3f8a8f8e14/artifacts
+end_time: 1683268865771
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6044b802dbb04b6898836f3f8a8f8e14
+run_name: Linear Discriminant Analysis
+run_uuid: 6044b802dbb04b6898836f3f8a8f8e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683268865535
+status: 3
+tags: []
+user_id: nuril

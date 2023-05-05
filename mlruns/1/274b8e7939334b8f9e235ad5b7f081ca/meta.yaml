@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/274b8e7939334b8f9e235ad5b7f081ca/artifacts
+end_time: 1683269273357
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 274b8e7939334b8f9e235ad5b7f081ca
+run_name: Extra Trees Classifier
+run_uuid: 274b8e7939334b8f9e235ad5b7f081ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269273173
+status: 3
+tags: []
+user_id: nuril

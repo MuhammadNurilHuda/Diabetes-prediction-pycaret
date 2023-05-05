@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/149bd0006d1d47eb88345dc3e078ddfe/artifacts
+end_time: 1683268865352
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 149bd0006d1d47eb88345dc3e078ddfe
+run_name: Ridge Classifier
+run_uuid: 149bd0006d1d47eb88345dc3e078ddfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683268864789
+status: 3
+tags: []
+user_id: nuril

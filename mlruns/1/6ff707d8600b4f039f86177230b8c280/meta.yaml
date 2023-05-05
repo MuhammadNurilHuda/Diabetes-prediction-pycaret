@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/6ff707d8600b4f039f86177230b8c280/artifacts
+end_time: 1683269275418
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6ff707d8600b4f039f86177230b8c280
+run_name: Light Gradient Boosting Machine
+run_uuid: 6ff707d8600b4f039f86177230b8c280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269275245
+status: 3
+tags: []
+user_id: nuril

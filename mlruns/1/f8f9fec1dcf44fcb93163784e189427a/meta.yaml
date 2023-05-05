@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/f8f9fec1dcf44fcb93163784e189427a/artifacts
+end_time: 1683269061619
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f8f9fec1dcf44fcb93163784e189427a
+run_name: str
+run_uuid: f8f9fec1dcf44fcb93163784e189427a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269061437
+status: 3
+tags: []
+user_id: nuril

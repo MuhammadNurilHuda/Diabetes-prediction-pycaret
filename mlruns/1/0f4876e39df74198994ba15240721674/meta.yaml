@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/0f4876e39df74198994ba15240721674/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 0f4876e39df74198994ba15240721674
+run_name: Session Initialized cf2d
+run_uuid: 0f4876e39df74198994ba15240721674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269012728
+status: 1
+tags: []
+user_id: nuril

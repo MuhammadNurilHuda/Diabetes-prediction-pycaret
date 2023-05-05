@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/dff5b7e15c3142eebd0f1c92bbb74eec/artifacts
+end_time: 1683269369942
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dff5b7e15c3142eebd0f1c92bbb74eec
+run_name: Decision Tree Classifier
+run_uuid: dff5b7e15c3142eebd0f1c92bbb74eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269369745
+status: 3
+tags: []
+user_id: nuril

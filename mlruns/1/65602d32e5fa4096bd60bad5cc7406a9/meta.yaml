@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Work/Documentation/PyCaret/mlruns/1/65602d32e5fa4096bd60bad5cc7406a9/artifacts
+end_time: 1683269272030
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 65602d32e5fa4096bd60bad5cc7406a9
+run_name: Logistic Regression
+run_uuid: 65602d32e5fa4096bd60bad5cc7406a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683269271847
+status: 3
+tags: []
+user_id: nuril
